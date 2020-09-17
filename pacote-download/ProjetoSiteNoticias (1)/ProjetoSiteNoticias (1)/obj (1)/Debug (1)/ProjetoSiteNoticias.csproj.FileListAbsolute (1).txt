@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\4 TI - A LP\ProjetoSiteNoticias\ProjetoSiteNoticias\bin\ProjetoSiteNoticias.dll
+C:\Users\aluno\Documents\4 TI - A LP\ProjetoSiteNoticias\ProjetoSiteNoticias\bin\ProjetoSiteNoticias.pdb
+C:\Users\aluno\Documents\4 TI - A LP\ProjetoSiteNoticias\ProjetoSiteNoticias\obj\Debug\ProjetoSiteNoticias.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\4 TI - A LP\ProjetoSiteNoticias\ProjetoSiteNoticias\obj\Debug\ProjetoSiteNoticias.dll
+C:\Users\aluno\Documents\4 TI - A LP\ProjetoSiteNoticias\ProjetoSiteNoticias\obj\Debug\ProjetoSiteNoticias.pdb
+E:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\bin\ProjetoSiteNoticias.dll
+E:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\bin\ProjetoSiteNoticias.pdb
+E:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\obj\Debug\ProjetoSiteNoticias.csprojResolveAssemblyReference.cache
+E:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\obj\Debug\ProjetoSiteNoticias.dll
+E:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\obj\Debug\ProjetoSiteNoticias.pdb
+G:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\obj\Debug\ProjetoSiteNoticias.csprojResolveAssemblyReference.cache
+G:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\obj\Debug\ProjetoSiteNoticias.dll
+G:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\bin\ProjetoSiteNoticias.dll
+G:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\bin\ProjetoSiteNoticias.pdb
+G:\Áre de Trabalho\Nova pasta\ProjetoSiteNoticias\ProjetoSiteNoticias\obj\Debug\ProjetoSiteNoticias.pdb
